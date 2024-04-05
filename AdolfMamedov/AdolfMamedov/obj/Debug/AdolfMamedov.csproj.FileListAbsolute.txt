@@ -1,0 +1,7 @@
+D:\is21\AdolfMamedov\AdolfMamedov\obj\Debug\AdolfMamedov.csproj.AssemblyReference.cache
+D:\is21\AdolfMamedov\AdolfMamedov\obj\Debug\AdolfMamedov.csproj.CoreCompileInputs.cache
+D:\is21\AdolfMamedov\AdolfMamedov\bin\Debug\AdolfMamedov.exe.config
+D:\is21\AdolfMamedov\AdolfMamedov\bin\Debug\AdolfMamedov.exe
+D:\is21\AdolfMamedov\AdolfMamedov\bin\Debug\AdolfMamedov.pdb
+D:\is21\AdolfMamedov\AdolfMamedov\obj\Debug\AdolfMamedov.exe
+D:\is21\AdolfMamedov\AdolfMamedov\obj\Debug\AdolfMamedov.pdb
